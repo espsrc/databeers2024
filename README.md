@@ -3,10 +3,10 @@
 
 [🇪🇸 Versión en Castellano](#cfp---evento-databeers---2a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a) [🇬🇧 English version](#cfp---databeers-event---2nd-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  🔗 [https://espsrc.github.io/databeers/](https://espsrc.github.io/databeers/)
 
-# CFP - Evento DataBeers - 2a Conferencia sobre Inteligencia Artificial de Andalucía ❤️ Granada, España
+# CFP - Evento DataBeers - 2ª Conferencia sobre Inteligencia Artificial de Andalucía ❤️ Granada, España
 
 La Inteligencia Artificial (IA) se ha convertido en una fuerza transformadora
-que ha dado forma a las industrias y revolucionado nuestra forma de abordar los
+que ha dado forma a nuevas industrias y revolucionado nuestra forma de abordar los
 problemas. Sus aplicaciones abarcan desde la sanidad y las finanzas hasta los
 vehículos autónomos, la visión por ordenador y el procesamiento del lenguaje
 natural, entre otras. Invitamos a investigadores, entusiastas y empresas a
@@ -25,7 +25,7 @@ el Palacio de Congresos.
 - ⚙️ [Repositorio del evento](https://github.com/espsrc/databeers2024)
 
 ## Inscripciones
-Registrate para asistir! 
+¡Tendrás que registrarte para asistir! 
 
 El evento de DataBeers es parte del II Congreso de IA de Andalucía. Formaliza tu registro al congreso, enlace próximamente.  
 
@@ -79,6 +79,7 @@ Una vez aceptada la propuesta nos pondremos en contacto contigo para completar l
 - Visualización de datos
 - Explicabilidad de la IA
 - Operaciones de aprendizaje automático
+- IA en la enseñanza y aprendizaje
 
 
 ## Fechas importantes
@@ -93,8 +94,8 @@ Una vez aceptada la propuesta nos pondremos en contacto contigo para completar l
 Para preguntas y consultas, contacta con nosotros:
 - Laura Darriba - ldarriba [at] iaa.es,
 - Manuel Parra-Royón - mparra [at] iaa.es,
-- JJ Merelo - jjmerelo [at] ugr.es,
-- Javier Viñales - javigu [at] gmail.com
+- JJ Merelo - jmerelo [at] ugr.es,
+- Javier Viñuales - javigu [at] gmail.com
 
 ## Sigue el evento
 
@@ -174,6 +175,7 @@ Once the proposal is accepted we will contact you to complete the necessary info
 - Data visualization
 - AI explainability
 - Machine Learning Operations
+- AI in teaching and learning
 
 
 ## Important Dates
@@ -188,8 +190,8 @@ Join us in Granada in this 2nd AI Congress - Andalucía, where AI innovation mee
 For questions and inquiries, contact with us:
 - Laura Darriba - ldarriba [at] iaa.es,
 - Manuel Parra-Royón - mparra [at] iaa.es,
-- JJ Merelo - jjmerelo [at] ugr.es,
-- Javier Viñales - javigu [at] gmail.com
+- JJ Merelo - jmerelo [at] ugr.es,
+- Javier Viñuales - javigu [at] gmail.com
 
 ## Follow the event
 You can check the latest updates from the DataBeers Granada account:
