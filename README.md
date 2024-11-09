@@ -1,6 +1,7 @@
 <img width="1163" alt="image" src="https://github.com/espsrc/databeers/assets/7033451/5240bbe5-c542-4b14-9930-5786cc6d5cc1">
 
 
+
 [🇪🇸 Versión en Castellano](#cfp---evento-databeers---2a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a) [🇬🇧 English version](#cfp---databeers-event---2nd-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  🔗 [https://espsrc.github.io/databeers/](https://espsrc.github.io/databeers/)
 
 # CFP - Evento DataBeers - 2ª Conferencia sobre Inteligencia Artificial de Andalucía ❤️ Granada, España
@@ -17,8 +18,10 @@ el Palacio de Congresos.
 
 ## Eventos destacados
 - 📆 Fecha: 20 y 21 de noviembre de 2024
-- 📫 Fecha límite de presentación de propuestas: 7 de noviembre
-- 🔆 Notificación de aceptación: 11 de noviembre
+- ~~📫 Fecha límite de presentación de propuestas: 7 de noviembre~~.
+- **📫 Fecha límite de presentación de propuestas: 15 de noviembre**
+- ~~🔆 Notificación de aceptación: 11 de noviembre~~
+- **🔆 Notificación de aceptación:  18 de noviembre**
 - 📌 Lugar: Palacio de Congresos de Granada, Granada, Andalucía, España. Sala (TBC)
 - 📊 Formato de presentación: 10 minutos de una charla impresionante + 5 minutos para preguntas.
 - ⏳ Horario del evento: 18:00-20:00h del 20 y 21 de noviembre de 2024
