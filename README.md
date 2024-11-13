@@ -127,9 +127,9 @@ Palacio de Congresos.
 ## Event Highlights
 - 📆 Date: November 20th - 21st, 2023
 - ~~📫 Submission deadline: November 7th~~.
-- **📫 Submission deadline:  November 7th**
+- **📫 Submission deadline:  November 15th**
 - ~~🔆 Notification of acceptance: November, 8th~~
-- **🔆 Notification of acceptance: November, 8th**
+- **🔆 Notification of acceptance: November, 18th**
 - 📌 Location: Palacio de Congresos de Granada, Granada, Andalucía, Spain. Room TBC 
 - 📊 Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
 - ⏳  Hours of the event: 6-8pm 
