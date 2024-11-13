@@ -30,7 +30,7 @@ el Palacio de Congresos.
 ## Inscripciones
 ¡Tendrás que registrarte para asistir! 
 
-El evento de DataBeers es parte del II Congreso de IA de Andalucía. Formaliza tu registro al congreso [aquí]((https://www.registrocongresoia.com/)  
+El evento de DataBeers es parte del II Congreso de IA de Andalucía. Formaliza tu registro al congreso [aquí](https://www.registrocongresoia.com/)  
 
 También te pedimos que te registres específicamente al evento de DataBeersGRX [aquí](https://www.tickettailor.com/events/databeersgranada/1429136)
 
