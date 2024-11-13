@@ -30,9 +30,9 @@ el Palacio de Congresos.
 ## Inscripciones
 ¡Tendrás que registrarte para asistir! 
 
-El evento de DataBeers es parte del II Congreso de IA de Andalucía. Formaliza tu registro al congreso, enlace próximamente.  
+El evento de DataBeers es parte del II Congreso de IA de Andalucía. Formaliza tu registro al congreso [aquí]((https://www.registrocongresoia.com/)  
 
-También te pedimos que te registres específicamente al evento de DataBeersGRX, enlace próximamente
+También te pedimos que te registres específicamente al evento de DataBeersGRX [aquí](https://www.tickettailor.com/events/databeersgranada/1429136)
 
 ## Agenda
 
@@ -87,8 +87,8 @@ Una vez aceptada la propuesta nos pondremos en contacto contigo para completar l
 
 ## Fechas importantes
 
-- Fecha límite de presentación de resúmenes: 7 de noviembre.
-- Notificación de aceptación: 11 de noviembre.
+- Fecha límite de presentación de resúmenes: 15 de noviembre.
+- Notificación de aceptación: 18 de noviembre.
 
 ## ¡Te esperamos!
 
@@ -126,8 +126,10 @@ Palacio de Congresos.
 
 ## Event Highlights
 - 📆 Date: November 20th - 21st, 2023
-- 📫 Submission deadline:  November 7th
-- 🔆 Notification of acceptance: November, 8th
+- ~~📫 Submission deadline: November 7th~~.
+- **📫 Submission deadline:  November 7th**
+- ~~🔆 Notification of acceptance: November, 8th~~
+- **🔆 Notification of acceptance: November, 8th**
 - 📌 Location: Palacio de Congresos de Granada, Granada, Andalucía, Spain. Room TBC 
 - 📊 Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
 - ⏳  Hours of the event: 6-8pm 
@@ -136,9 +138,9 @@ Palacio de Congresos.
 ## Registration
 Register your attendance! 
 
-The DataBeers event is part of the II Congreso de IA de Andalucía. Register to the II Congreso de IA de Andalucía, link TBC
+The DataBeers event is part of the II Congreso de IA de Andalucía. Register to the II Congreso de IA de Andalucía [here](https://www.registrocongresoia.com/).
 
-We also ask you to register in particular to the DataBeers event, link TBC
+We also ask you to register in particular to the DataBeers event [here](https://www.tickettailor.com/events/databeersgranada/1429136)
 
 ## Agenda 
 ### Session 1. Wednesday 20th November 6pm - 8pm 
@@ -183,8 +185,8 @@ Once the proposal is accepted we will contact you to complete the necessary info
 
 ## Important Dates
 
-- Abstract Submission Deadline: November, 7th.
-- Notification of Acceptance: November, 11th.
+- Abstract Submission Deadline: November, 15th.
+- Notification of Acceptance: November, 18th.
 
 ##  We look forward to seeing you!
 
