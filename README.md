@@ -24,7 +24,7 @@ el Palacio de Congresos.
 - **🔆 Notificación de aceptación:  18 de noviembre**
 - 📌 Lugar: Palacio de Congresos de Granada, Granada, Andalucía, España. Sala (TBC)
 - 📊 Formato de presentación: 10 minutos de una charla impresionante + 5 minutos para preguntas.
-- ⏳ Horario del evento: 18:00-20:00h del 20 y 21 de noviembre de 2024
+- ⏳ Horario del evento: 18:00-20:00h 20 de noviembre de 2024 y 17:00-19:00h 21 de noviembre de 2024
 - ⚙️ [Repositorio del evento](https://github.com/espsrc/databeers2024)
 
 ## Inscripciones
@@ -132,7 +132,7 @@ Palacio de Congresos.
 - **🔆 Notification of acceptance: November, 18th**
 - 📌 Location: Palacio de Congresos de Granada, Granada, Andalucía, Spain. Room TBC 
 - 📊 Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
-- ⏳  Hours of the event: 6-8pm 
+- ⏳  Hours of the event: 6-8pm 20 November 2024 and 5-7pm 21 November 2024
 - ⚙️ [Event Repository](https://github.com/espsrc/databeers)
 
 ## Registration
