@@ -39,7 +39,7 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 ### Sesión 1. Miércoles 20 de noviembre de 18:00h a 20:00h 
 TBC
 
-### Sesión 2. Jueves 21 de noviembre de 18:00h a 20:00h 
+### Sesión 2. Jueves 21 de noviembre de 17:00h a 19:00h 
 TBC
 
  
@@ -146,7 +146,7 @@ We also ask you to register in particular to the DataBeers event [here](https://
 ### Session 1. Wednesday 20th November 6pm - 8pm 
 TBC
 
-### Session 2. Thursday 21st November 6pm-8pm
+### Session 2. Thursday 21st November 5pm-7pm
 TBC
 
 
