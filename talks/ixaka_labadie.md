@@ -1,8 +1,8 @@
 # Así se ven las galaxias / This is how galaxies look like
 ## Autores/Authors
-Ixaka Labadie García, Julián Garrido, Lourdes Verdes-Montenegro, María Ángeles Mendoza, Manuel Parra-Royón, S.Sánchez-Expósito, R.Ianjamasimanana (IAA-CSIC)
+Ixaka Labadie García, Julián Garrido, Lourdes Verdes-Montenegro, María Ángeles Mendoza, Manuel Parra-Royón, Susana Sánchez-Expósito, Roger Ianjamasimanana (IAA-CSIC)
 ## Presenter
-Ixaka Labadie García, IAA-CSIC
+Ixaka Labadie García (IAA-CSIC)
 ## Resumen (Castellano)
 Actualmente, los datos obtenidos en cualquier ciencia se traducen en matrices llenas de números. Es el trabajo de científicos y sus ordenadores transformar esos números en imágenes que se pueden analizar visualmente.
 Nuevos datos más complejos requieren de nuevos avances en técnicas de visualización, así como métodos para hacer Ciencia Abierta. En mi doctorado, me centro en crear visualizaciones de datos astronómicos, en particular,
