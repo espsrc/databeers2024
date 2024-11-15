@@ -42,9 +42,9 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 - Deep Learning en tiempo real: la detección de terremotos en la Red Sísmica Nacional. Alfonso Martínez y Enrique Soriano, Guadaltel.
 
 ### Sesión 2. Jueves 21 de noviembre de 17:00h a 19:00h 
-- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, quizás el miércoles) 
 - Data augmentation: El secreto para enseñar a la IA a ver mejor. Manuel Martín Salvador, Blink Technologies.
 - Así se ven las galaxias. Ixaka Labadie García, Instituto de Astrofísica de Andalucía, CSIC.
+- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, quizás el miércoles) 
 - ¿Preparados para la IA? Lo que piensan/opinan l@s docentes de primaria y secundaria en Andalucía sobre el uso de LLMs en el aula. Manuel Parra-Royón, Instituto de Astrofísica de Andalucía, CSIC & Universidad de Granada.
 
 ## Convocatoria de propuestas para presentar en DataBeers
@@ -152,9 +152,9 @@ We also ask you to register in particular to the DataBeers event [here](https://
 - Deep Learning en tiempo real: la detección de terremotos en la Red Sísmica Nacional. Alfonso Martínez y Enrique Soriano, Guadaltel.
 
 ### Session 2. Thursday 21st November 5pm-7pm
-- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, maybe on Wednesday) 
 - Data augmentation: El secreto para enseñar a la IA a ver mejor. Manuel Martín Salvador, Blink Technologies.
 - Así se ven las galaxias. Ixaka Labadie García, Instituto de Astrofísica de Andalucía, CSIC.
+- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, maybe on Wednesday) 
 - ¿Preparados para la IA? Lo que piensan/opinan l@s docentes de primaria y secundaria en Andalucía sobre el uso de LLMs en el aula. Manuel Parra-Royón, Instituto de Astrofísica de Andalucía, CSIC & Universidad de Granada.
 
 ## Call for Abstracts
