@@ -37,12 +37,15 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 ## Agenda
 
 ### Sesión 1. Miércoles 20 de noviembre de 18:00h a 20:00h 
-TBC
+- Dr Potasio, supongo?. Ignacio Martínez Soriano, Cientifico de Datos" (Jefe de Seccion) Hospital Universitario Rafael Méndez. 
+- AI³: Transforma tu día a día con IA, en un solo clic. Rubén Trujillo Fernández, CTO en Nucleoo.
+- Deep Learning en tiempo real: la detección de terremotos en la Red Sísmica Nacional. Alfonso Martínez y Enrique Soriano, Guadaltel.
 
 ### Sesión 2. Jueves 21 de noviembre de 17:00h a 19:00h 
-TBC
-
- 
+- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga - María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, quizás el miércoles) 
+- Data augmentation: El secreto para enseñar a la IA a ver mejor, Manuel Martín Salvador, Blink Technologies.
+- Así se ven las galaxias - Ixaka Labadie García, Instituto de Astrofísica de Andalucía, CSIC.
+- ¿Preparados para la IA? Lo que piensan/opinan l@s docentes de primaria y secundaria en Andalucía sobre el uso de LLMs en el aula - Manuel Parra-Royón, Instituto de Astrofísica de Andalucía, CSIC & Universidad de Granada.
 
 ## Convocatoria de propuestas para presentar en DataBeers
 
@@ -144,11 +147,15 @@ We also ask you to register in particular to the DataBeers event [here](https://
 
 ## Agenda 
 ### Session 1. Wednesday 20th November 6pm - 8pm 
-TBC
+- Dr Potasio, supongo?. Ignacio Martínez Soriano, Cientifico de Datos" (Jefe de Seccion) Hospital Universitario Rafael Méndez. 
+- AI³: Transforma tu día a día con IA, en un solo clic. Rubén Trujillo Fernández, CTO en Nucleoo.
+- Deep Learning en tiempo real: la detección de terremotos en la Red Sísmica Nacional. Alfonso Martínez y Enrique Soriano, Guadaltel.
 
 ### Session 2. Thursday 21st November 5pm-7pm
-TBC
-
+- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga - María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, maybe on Wednesday) 
+- Data augmentation: El secreto para enseñar a la IA a ver mejor, Manuel Martín Salvador, Blink Technologies.
+- Así se ven las galaxias - Ixaka Labadie García, Instituto de Astrofísica de Andalucía, CSIC.
+- ¿Preparados para la IA? Lo que piensan/opinan l@s docentes de primaria y secundaria en Andalucía sobre el uso de LLMs en el aula - Manuel Parra-Royón, Instituto de Astrofísica de Andalucía, CSIC & Universidad de Granada.
 
 ## Call for Abstracts
 
