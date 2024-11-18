@@ -37,6 +37,7 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 ## Agenda
 
 ### Sesión 1. Miércoles 20 de noviembre de 18:00h a 20:00h 
+- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga.
 - Dr Potasio, supongo?. Ignacio Martínez Soriano, Cientifico de Datos" (Jefe de Seccion) Hospital Universitario Rafael Méndez. 
 - AI³: Transforma tu día a día con IA, en un solo clic. Rubén Trujillo Fernández, CTO en Nucleoo.
 - Deep Learning en tiempo real: la detección de terremotos en la Red Sísmica Nacional. Alfonso Martínez y Enrique Soriano, Guadaltel.
@@ -44,7 +45,6 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 ### Sesión 2. Jueves 21 de noviembre de 17:00h a 19:00h 
 - Data augmentation: El secreto para enseñar a la IA a ver mejor. Manuel Martín Salvador, Blink Technologies.
 - Así se ven las galaxias. Ixaka Labadie García, Instituto de Astrofísica de Andalucía, CSIC.
-- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, quizás el miércoles) 
 - ¿Preparados para la IA? Lo que piensan/opinan l@s docentes de primaria y secundaria en Andalucía sobre el uso de LLMs en el aula. Manuel Parra-Royón, Instituto de Astrofísica de Andalucía, CSIC & Universidad de Granada.
 
 ## Convocatoria de propuestas para presentar en DataBeers
@@ -146,7 +146,8 @@ The DataBeers event is part of the II Congreso de IA de Andalucía. Register to 
 We also ask you to register in particular to the DataBeers event [here](https://www.tickettailor.com/events/databeersgranada/1429136)
 
 ## Agenda 
-### Session 1. Wednesday 20th November 6pm - 8pm 
+### Session 1. Wednesday 20th November 6pm-8pm 
+- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga.
 - Dr Potasio, supongo?. Ignacio Martínez Soriano, Cientifico de Datos" (Jefe de Seccion) Hospital Universitario Rafael Méndez. 
 - AI³: Transforma tu día a día con IA, en un solo clic. Rubén Trujillo Fernández, CTO en Nucleoo.
 - Deep Learning en tiempo real: la detección de terremotos en la Red Sísmica Nacional. Alfonso Martínez y Enrique Soriano, Guadaltel.
@@ -154,7 +155,6 @@ We also ask you to register in particular to the DataBeers event [here](https://
 ### Session 2. Thursday 21st November 5pm-7pm
 - Data augmentation: El secreto para enseñar a la IA a ver mejor. Manuel Martín Salvador, Blink Technologies.
 - Así se ven las galaxias. Ixaka Labadie García, Instituto de Astrofísica de Andalucía, CSIC.
-- Testeando IA para uso periodístico: experiencia de usuario con estudiantes de la Universidad de Málaga. María Sánchez, Departamento de Periodismo Universidad de Málaga. (TBC, maybe on Wednesday) 
 - ¿Preparados para la IA? Lo que piensan/opinan l@s docentes de primaria y secundaria en Andalucía sobre el uso de LLMs en el aula. Manuel Parra-Royón, Instituto de Astrofísica de Andalucía, CSIC & Universidad de Granada.
 
 ## Call for Abstracts
